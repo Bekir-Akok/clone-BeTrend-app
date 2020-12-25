@@ -1,4 +1,9 @@
-#https://clone-be-trend-app.vercel.app/ ---> Canlı
+# htps://clone-be-trend-app.vercel.app/ ---> Canlı
+
+## Trendyolu klonlama projemdir. 
+## React'ın temel ve ileri seviye konularını pekiştirmek için yaptığım bir projedir.
+## Başlıca Hooks , Context , React Router ve temel React bileşenlerini kullanarak yazdığım bir projedir.
+### React Slick Slider kütüphanesi kullanıldı.
 
 # Getting Started with Create React App
 
